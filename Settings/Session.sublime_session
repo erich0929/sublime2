@@ -1,0 +1,747 @@
+{
+	"folder_history":
+	[
+		"/home/erich0929/code/php/blog",
+		"/home/erich0929/code/php/phpblog",
+		"/home/erich0929",
+		"/home/erich0929/code/javascript/sample-app",
+		"/home/erich0929/code/javascript/menu-app",
+		"/home/erich0929/code/java/springTest1",
+		"/home/erich0929/code/java/HelloWorld",
+		"/home/erich0929/code/codeigniter",
+		"/home/erich0929/code/java/mybatis/mybatis-book",
+		"/home/erich0929/code/java/mybatis/mybatis-book/Chapter 1",
+		"/home/erich0929/code/java/mybatis/practice/ch01/test"
+	],
+	"last_window_id": 33,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"pa",
+						"panalty"
+					],
+					[
+						"promise",
+						"promiseWithStudent"
+					],
+					[
+						"defer",
+						"deffered"
+					],
+					[
+						"ho",
+						"homeworkResult"
+					],
+					[
+						"de",
+						"deffered"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 222.0,
+				"selected_items":
+				[
+					[
+						"Snippet: ",
+						"Snippet: spring-config"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 139.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/erich0929/code/php/blog/system/core/Controller.php",
+				"/home/erich0929/code/php/blog/application/index.php",
+				"/home/erich0929/code/php/blog/system/core/Loader.php",
+				"/home/erich0929/code/php/blog/application/public/defferred.html",
+				"/home/erich0929/code/php/blog/application/public/templates/helloTmpl.html",
+				"/home/erich0929/code/php/blog/application/public/templates/adapterTmpl.html",
+				"/home/erich0929/code/php/blog/application/public/index.html",
+				"/home/erich0929/code/php/blog/application/public/promise.html",
+				"/home/erich0929/code/php/blog/application/public/javascript/index.js",
+				"/home/erich0929/code/php/blog/system/core/Builder.php",
+				"/home/erich0929/code/php/blog/application/controllers/jsonController.php",
+				"/home/erich0929/code/php/phpblog/core/database/DB_driver.php",
+				"/home/erich0929/code/php/phpblog/core/database/drivers/mysqli_driver.php",
+				"/home/erich0929/code/php/phpblog/mappers/ArticleMapper.php",
+				"/home/erich0929/code/php/phpblog/controllers/indexController.php",
+				"/home/erich0929/code/java/springTest1/src/main/java/com/erich0929/webapp/HelloSpring.java",
+				"/home/erich0929/code/codeigniter/test/system/core/Loader.php",
+				"/home/erich0929/.config/sublime-text-2/Packages/User/spring-config.sublime-snippet",
+				"/home/erich0929/code/java/mybatis/mybatis-book/Chapter",
+				"/home/erich0929/code/java/mybatis/mybatis-book/Chapter\\",
+				"/home/erich0929/code/java/mybatis/practice/ch01/test/1",
+				"/home/erich0929/code/java/mybatis/practice/ch01/test/src/main/resources/mybatis-config.xml",
+				"/home/erich0929/code/java/mybatis/practice/ch01/test/pom.xml",
+				"/home/erich0929/code/java/mybatis/practice/ch01/test/src/main/resources/sql/insertData.sql",
+				"/home/erich0929/code/java/mybatis/practice/ch01/test/src/main/resources/sql/createTable.sql",
+				"/home/erich0929/code/java/mybatis/practice/ch01/test/src/main/java/com/mybatis3/services/StudentService.java",
+				"/home/erich0929/code/java/mybatis/practice/ch01/test/src/main/java/com/mybatis3/mappers/StudentMapper.java",
+				"/home/erich0929/code/java/mybatis/practice/ch01/test/src/main/java/com/mybatis3/util/MybatisSqlSessionFactory.java",
+				"/home/erich0929/code/java/mybatis/practice/ch01/test/src/main/java/com/mybatis3/domain/Student.java",
+				"/home/erich0929/code/java/mybatis/practice/ch01/test/src/main/resources/log4j.properties",
+				"/home/erich0929/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+				"/home/erich0929/code/java/mybatis/practice/ch01/test/src/main/resources/com/mybatis3/mappers/StudentMapper.xml",
+				"/home/erich0929/.config/sublime-text-2/Packages/User/mybatis-mapper.sublime-snippet",
+				"/home/erich0929/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"a href",
+					"echo '.*';",
+					"_ci_load",
+					"font"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 36.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 259.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"boa",
+						"boardMapper"
+					],
+					[
+						"ta",
+						"tagName"
+					],
+					[
+						"pa",
+						"panalty"
+					],
+					[
+						"promise",
+						"promiseWithStudent"
+					],
+					[
+						"defer",
+						"deffered"
+					],
+					[
+						"ho",
+						"homeworkResult"
+					],
+					[
+						"de",
+						"deffered"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/erich0929/code/php/blog/application/sqls/buildTable.sql",
+					"settings":
+					{
+						"buffer_size": 896,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/erich0929/code/php/blog/application/sqls/insert.sql",
+					"settings":
+					{
+						"buffer_size": 424,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/erich0929/code/php/blog/application/mappers/BoardMapper.php",
+					"settings":
+					{
+						"buffer_size": 450,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/erich0929/code/php/blog/system/core/database/DBdriver.php",
+					"settings":
+					{
+						"buffer_size": 2396,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/erich0929/code/php/blog/application/index.php",
+					"settings":
+					{
+						"buffer_size": 321,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/erich0929/code/php/blog/application/controllers/mainController.php",
+					"settings":
+					{
+						"buffer_size": 1147,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/erich0929/code/php/blog/system/core/Loader.php",
+					"settings":
+					{
+						"buffer_size": 1340,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/erich0929/code/php/blog/system/core/database/drivers/MysqliDriver.php",
+					"settings":
+					{
+						"buffer_size": 1128,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 54.0,
+				"selected_items":
+				[
+					[
+						"Snippet: ",
+						"Snippet: spring-config"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 139.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/erich0929/code/php/blog/system/core/Builder.php",
+				"/home/erich0929/code/php/blog/application/index.php",
+				"/home/erich0929/code/php/blog/system/core/Loader.php",
+				"/home/erich0929/code/php/blog/application/mappers/MainArticleMapper.php",
+				"/home/erich0929/code/php/blog/application/public/scripts/blog/templates/main.tmpl.html",
+				"/home/erich0929/code/php/blog/application/public/scripts/blog/controllers/mainController.js",
+				"/home/erich0929/code/php/blog/application/public/scripts/app.js",
+				"/home/erich0929/code/php/blog/application/public/index.html",
+				"/home/erich0929/code/php/blog/application/sqls/BuildTable.php",
+				"/home/erich0929/code/php/blog/application/public/libs/bootstrap.min.css",
+				"/home/erich0929/code/php/blog/application/public/login.html",
+				"/home/erich0929/code/php/blog/system/core/Controller.php",
+				"/home/erich0929/code/php/blog/application/public/defferred.html",
+				"/home/erich0929/code/php/blog/application/public/templates/helloTmpl.html",
+				"/home/erich0929/code/php/blog/application/public/templates/adapterTmpl.html",
+				"/home/erich0929/code/php/blog/application/public/promise.html",
+				"/home/erich0929/code/php/blog/application/public/javascript/index.js",
+				"/home/erich0929/code/php/blog/application/controllers/jsonController.php",
+				"/home/erich0929/code/php/phpblog/core/database/DB_driver.php",
+				"/home/erich0929/code/php/phpblog/core/database/drivers/mysqli_driver.php",
+				"/home/erich0929/code/php/phpblog/mappers/ArticleMapper.php",
+				"/home/erich0929/code/php/phpblog/controllers/indexController.php",
+				"/home/erich0929/code/java/springTest1/src/main/java/com/erich0929/webapp/HelloSpring.java",
+				"/home/erich0929/code/codeigniter/test/system/core/Loader.php",
+				"/home/erich0929/.config/sublime-text-2/Packages/User/spring-config.sublime-snippet",
+				"/home/erich0929/code/java/mybatis/mybatis-book/Chapter",
+				"/home/erich0929/code/java/mybatis/mybatis-book/Chapter\\",
+				"/home/erich0929/code/java/mybatis/practice/ch01/test/1",
+				"/home/erich0929/code/java/mybatis/practice/ch01/test/src/main/resources/mybatis-config.xml",
+				"/home/erich0929/code/java/mybatis/practice/ch01/test/pom.xml",
+				"/home/erich0929/code/java/mybatis/practice/ch01/test/src/main/resources/sql/insertData.sql",
+				"/home/erich0929/code/java/mybatis/practice/ch01/test/src/main/resources/sql/createTable.sql",
+				"/home/erich0929/code/java/mybatis/practice/ch01/test/src/main/java/com/mybatis3/services/StudentService.java",
+				"/home/erich0929/code/java/mybatis/practice/ch01/test/src/main/java/com/mybatis3/mappers/StudentMapper.java",
+				"/home/erich0929/code/java/mybatis/practice/ch01/test/src/main/java/com/mybatis3/util/MybatisSqlSessionFactory.java",
+				"/home/erich0929/code/java/mybatis/practice/ch01/test/src/main/java/com/mybatis3/domain/Student.java",
+				"/home/erich0929/code/java/mybatis/practice/ch01/test/src/main/resources/log4j.properties",
+				"/home/erich0929/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+				"/home/erich0929/code/java/mybatis/practice/ch01/test/src/main/resources/com/mybatis3/mappers/StudentMapper.xml",
+				"/home/erich0929/.config/sublime-text-2/Packages/User/mybatis-mapper.sublime-snippet",
+				"/home/erich0929/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"echo\\s+.*;",
+					"MainArticleMapper.php",
+					"\"",
+					"\n$routeProvider",
+					"\n$routeProviser",
+					"a href",
+					"echo '.*';",
+					"_ci_load",
+					"font"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"",
+					"\\\"",
+					" <p>This blog post shows a few different types of content that's supported and styled with Bootstrap. Basic typography, images, and code are all supported.</p>\n            <hr>\n            <p>Cum sociis natoque penatibus et magnis <a href=\"#\">dis parturient montes</a>, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.</p>",
+					"\\\"",
+					""
+				],
+				"reverse": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/erich0929/code/php/blog"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/erich0929/code/php/blog/application/sqls/buildTable.sql",
+							"settings":
+							{
+								"buffer_size": 896,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										646,
+										646
+									]
+								],
+								"settings":
+								{
+									"is_preview": true,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/SQL/SQL.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/erich0929/code/php/blog/application/sqls/insert.sql",
+							"settings":
+							{
+								"buffer_size": 424,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										212,
+										212
+									]
+								],
+								"settings":
+								{
+									"is_preview": true,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/SQL/SQL.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/erich0929/code/php/blog/application/mappers/BoardMapper.php",
+							"settings":
+							{
+								"buffer_size": 450,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										450,
+										450
+									]
+								],
+								"settings":
+								{
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/erich0929/code/php/blog/system/core/database/DBdriver.php",
+							"settings":
+							{
+								"buffer_size": 2396,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1180,
+										1180
+									]
+								],
+								"settings":
+								{
+									"is_preview": true,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 486.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/erich0929/code/php/blog/application/index.php",
+							"settings":
+							{
+								"buffer_size": 321,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										316,
+										316
+									]
+								],
+								"settings":
+								{
+									"is_preview": true,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/home/erich0929/code/php/blog/application/controllers/mainController.php",
+							"settings":
+							{
+								"buffer_size": 1147,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										640,
+										640
+									]
+								],
+								"settings":
+								{
+									"is_preview": true,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/home/erich0929/code/php/blog/system/core/Loader.php",
+							"settings":
+							{
+								"buffer_size": 1340,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1333,
+										1333
+									]
+								],
+								"settings":
+								{
+									"is_preview": true,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 162.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/home/erich0929/code/php/blog/system/core/database/drivers/MysqliDriver.php",
+							"settings":
+							{
+								"buffer_size": 1128,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										555,
+										555
+									]
+								],
+								"settings":
+								{
+									"is_preview": true,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 36.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"position": "0,0,0,0,0,90,24,895,1021,1680,1050",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 259.0,
+			"status_bar_visible": true,
+			"window_id": 24,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
